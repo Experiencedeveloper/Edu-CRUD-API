@@ -1,0 +1,23 @@
+{
+  "name": "edu-crud-api",
+  "version": "1.2.3",
+  "description": "A basic CRUD API built with Express. Ideal for educational purposes.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "api",
+    "express",
+    "nodejs",
+    "education"
+  ],
+  "author": "Experiencedeveloper",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
