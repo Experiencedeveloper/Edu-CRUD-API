@@ -1,6 +1,6 @@
 # Edu CRUD API 📚
 
-[![npm](https://img.shields.io/npm/v/edu-crud-api)(https://npmjs.org/package/edu-crud-api)]
+[![npm](https://img.shields.io/npm/v/edu-crud-api)(https://npmjs.org/package/edu-crud-api)
 ![npm](https://img.shields.io/npm/dm/edu-crud-api)
 ![npm](https://img.shields.io/npm/dw/edu-crud-api)
 ![install size](https://packagephobia.com/badge?p=edu-crud-api)
