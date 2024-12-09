@@ -172,6 +172,7 @@ Status: 200 OK (if exists) or 404 Not Found (if not exists)
 If an item is not found or a bad request is made, the API will respond with an appropriate HTTP status code and message.
 
 ### Example Error Response
+
 **Response**:
 ```json
 {
@@ -181,7 +182,7 @@ If an item is not found or a bad request is made, the API will respond with an a
 
 ## Features
 - **🔑 UUID**: Uses UUIDs for unique item identification.
-- **🔒 Error Handling**: Responds appropriately if an item is not found.
+- **✅ Error Handling**: Responds appropriately if an item is not found.
 
 ## License
 This project is licensed under the MIT License.
